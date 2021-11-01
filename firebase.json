@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "resume-dainguyen",
+    "site": "resume-cv-nguyendai-dev",
     "public": "public",
     "ignore": ["firebase.json", "**/.*"],
     "rewrites": [
