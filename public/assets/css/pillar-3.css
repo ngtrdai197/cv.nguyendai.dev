@@ -881,6 +881,19 @@ progress {
   }
 }
 
+/* TODO */
+@media (max-width: 655px) {
+  .primary-info.col-auto,.secondary-info.col-auto {
+    min-width: 410px;
+  }
+}
+/* TODO */
+@media (min-width: 768px) and (max-width: 899px) {
+  .secondary-info.col-auto {
+    display: none;
+  }
+}
+
 .col-auto {
   flex: 0 0 auto;
   width: auto;
